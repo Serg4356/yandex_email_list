@@ -2,8 +2,6 @@ import requests
 from pprint import pprint
 
 
-pdd_token='COTPKELAA4GBLULVCFFIPKPKR4YDTM4AJFRCYMIPKXRGBUVD2VUA'
-
 if __name__ == '__main__':
     url = 'http://pddimp.yandex.ru/api2/admin/email/list'
     params = {
